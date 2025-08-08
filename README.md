@@ -47,16 +47,11 @@ description – Short description of the content
 
 🛠 Tools & Libraries Used
 Python – Core language
-
 Pandas – Data manipulation & cleaning
-
 NumPy – Numerical computations
-
 Matplotlib – Data visualization
-
 Seaborn – Statistical data visualization
-
-Jupyter Notebook – Interactive development environment
+Jupyter Notebook – Interactive
 
 🔍 Steps Performed
 Data Loading: Imported the dataset using Pandas
